@@ -1,0 +1,26 @@
+[
+  {
+    "package": "nert",
+    "url": "https://github.com/AAGI-AUS/nert"
+  },
+  {
+    "package": "rippo",
+    "url": "https://github.com/AAGI-AUS/rippo"
+  },
+  {
+    "package": "AAGITemplates",
+    "url": "https://github.com/AAGI-AUS/AAGITemplates"
+  },
+  {
+    "package": "InPlotSampling",
+    "url": "https://github.com/AAGI-AUS/InPlotSampling"
+  },
+  {
+    "package": "AAGIPalettes",
+    "url": "https://github.com/AAGI-AUS/AAGIPalettes"
+  },
+  {
+    "package": "AAGIThemes",
+    "url": "https://github.com/AAGI-AUS/AAGIThemes"
+  },
+]
