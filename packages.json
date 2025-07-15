@@ -22,5 +22,8 @@
   {
     "package": "AAGIThemes",
     "url": "https://github.com/AAGI-AUS/AAGIThemes"
-  }
+  },
+  {
+    "package": "CBADASReml",
+    "url": "https://github.com/AAGI-AUS/CBADASReml"
 ]
