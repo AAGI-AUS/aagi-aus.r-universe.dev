@@ -1,10 +1,14 @@
-# AAGI-AUS R-Universe
+# AAGI-AUS R-Universe <img src="600.jpg" align="right"/>
 
-This is not the repo you are looking for.
+Long ago in an R-Universe far, far away...
+
+This isn't the repo you are looking for.
 
 You are probably looking for this one, <https://aagi-aus.r-universe.dev/>.
 
 ## Contributing
+
+But if you really are looking for this one, you're in the right spot!
 
 If you are a member of AAGI-AUS who has created an R package and would like to add it to the AAGI-AUS R-Universe, edit the [packages.json](https://github.com/AAGI-AUS/aagi-aus.r-universe.dev/blob/main/packages.json) file to add the lines for your new package.
 The packages.json file requires you to provide the package name as in the DESCRIPTION file and the URL to the repository.
