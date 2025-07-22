@@ -6,9 +6,7 @@ You are probably looking for this one, <https://aagi-aus.r-universe.dev/>.
 
 ## Contributing
 
-If you are a member of AAGI-AUS who has created an R package and would like to add it to the AAGI-AUS R-Universe,
-1. [please create a new branch](https://github.com/AAGI-AUS/aagi-aus.r-universe.dev/branches),
-2. add your package to [packages.json](https://github.com/AAGI-AUS/aagi-aus.r-universe.dev/blob/main/packages.json), and
-3. [create a new pull request](https://github.com/AAGI-AUS/aagi-aus.r-universe.dev/compare) from your branch.
-
+If you are a member of AAGI-AUS who has created an R package and would like to add it to the AAGI-AUS R-Universe, edit the [packages.json](https://github.com/AAGI-AUS/aagi-aus.r-universe.dev/blob/main/packages.json) file.
 The packages.json file requires you to provide the package name as in the DESCRIPTION file and the URL to the repository.
+That's it, R-Universe will do the rest when it checks for any changes and will build and deploy your package within the hour.
+
