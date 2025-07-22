@@ -26,5 +26,7 @@
   {
     "package": "CBADASReml",
     "url": "https://github.com/AAGI-AUS/CBADASReml"
-  }
+  },
+    "package": "AAGIQuartoExtra",
+    "url": "https://github.com/AAGI-AUS/AAGIQuartoExtra"
 ]
