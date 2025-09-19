@@ -38,5 +38,9 @@
   {
     "package": "hagis",
     "url": "https://github.com/openplantpathology/hagis"
+  },
+  {
+    "package": "AAGISurvey",
+    "url": "https://github.com/AAGI-AUS/AAGISurvey"
   }
 ]
