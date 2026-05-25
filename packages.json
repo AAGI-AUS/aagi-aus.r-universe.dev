@@ -42,5 +42,9 @@
   {
     "package": "AAGISurvey",
     "url": "https://github.com/AAGI-AUS/AAGISurvey"
+  },
+    {
+    "package": "AAGISurveyApp",
+    "url": "https://github.com/AAGI-AUS/AAGISurveyApp"
   }
 ]
